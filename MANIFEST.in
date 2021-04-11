@@ -1,0 +1,7 @@
+  
+include pyproject.toml
+include *.md
+include LICENSE
+recursive-include src *.py
+recursive-include example_outputs *.py
+recursive-include example_outputs *.vcl
